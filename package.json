@@ -1,0 +1,27 @@
+{
+  "name": "createyourownmailingtemplate",
+  "version": "1.0.0",
+  "description": "Create Your Own Mailing template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilghosh7/CreateYourOwnMailingTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnilghosh7/CreateYourOwnMailingTemplate/issues"
+  },
+  "homepage": "https://github.com/swapnilghosh7/CreateYourOwnMailingTemplate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
